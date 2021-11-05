@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ekushey Lal Sabuj Normal';
+    src: url('subset-EkusheyLalSabujNormal.woff2') format('woff2'),
+        url('subset-EkusheyLalSabujNormal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
