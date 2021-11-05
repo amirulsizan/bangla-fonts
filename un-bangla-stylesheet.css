@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UnBanglaUnicode';
+    src: url('subset-UnBanglaUnicode.woff2') format('woff2'),
+        url('subset-UnBanglaUnicode.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
