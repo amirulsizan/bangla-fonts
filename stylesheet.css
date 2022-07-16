@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'BongoFont';
+    src: url('bongofont.woff2') format('woff2'),
+        url('bongofont.woff') format('woff'),
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
